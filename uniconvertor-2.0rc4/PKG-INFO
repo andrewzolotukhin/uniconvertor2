@@ -1,0 +1,82 @@
+Metadata-Version: 1.1
+Name: uniconvertor
+Version: 2.0rc4
+Summary: Universal vector graphics translator
+Home-page: https://sk1project.net
+Author: Igor E. Novikov
+Author-email: sk1.project.org@gmail.com
+License: GPL v3
+Download-URL: https://sk1project.net
+Description: 
+        UniConvertor is a multiplatform universal vector graphics translator.
+        Uses SK2 model to convert one format to another. 
+        
+        sK1 Project (https://sk1project.net),
+        Copyright (C) 2007-2019 sK1 Project Team
+        --------------------------------------------------------------------------------
+        Supported input formats:  
+          SK2 - sK1 2.x graphics files
+          SVG - Scalable Vector Graphics files
+          WMF - Windows Metafile files
+          PLT - HPGL cutting plotter files
+          SK1 - sK1 0.9.x graphics files
+          SK - Sketch/Skencil files
+          CDR - CorelDRAW Graphics files
+          FIG - XFig files
+          CGM - Computer Graphics Metafile files
+          SKP - sK1 palette files
+          GPL - GIMP palette files
+          XML - Scribus palette files
+          SOC - LibreOffice palette files
+          CPL - CorelDRAW palette files
+          XML - CorelDRAW X5-X7 palette files
+          ASE - Adobe Swatch Exchange files
+          ACO - Adobe Color files
+          JCW - Xara color palette files
+          PNG - Portable Network Graphics files
+          JPEG - Joint Photographic Experts Group files
+          PSD - Adobe Photoshop files
+          XCF - GIMP files
+          JPEG2000 - Joint Photographic Experts Group files
+          TIFF - Tagged Image File Format files
+          GIF - Graphics Interchange Format files
+          BMP - Bitmap Picture files
+          PCX - PCeXchange files
+          PPM - Netpbm Color Image format files
+          XBM - X bitmap files
+          XPM - X pixmap files
+          WebP - Google image format files
+        --------------------------------------------------------------------------------
+        Supported output formats: 
+          SK2 - sK1 2.x graphics files
+          SVG - Scalable Vector Graphics files
+          PLT - HPGL cutting plotter files
+          PDF - Portable Document Format files
+          SK1 - sK1 0.9.x graphics files
+          SK - Sketch/Skencil files
+          CGM - Computer Graphics Metafile files
+          FIG - XFig files
+          SKP - sK1 palette files
+          GPL - GIMP palette files
+          XML - Scribus palette files
+          SOC - LibreOffice palette files
+          CPL - CorelDRAW palette files
+          XML - CorelDRAW X5-X7 palette files
+          ASE - Adobe Swatch Exchange files
+          ACO - Adobe Color files
+          JCW - Xara color palette files
+          PNG - Portable Network Graphics files
+        --------------------------------------------------------------------------------
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 6 - Mature
+Classifier: Environment :: Console
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: LGPL v2
+Classifier: License :: OSI Approved :: GPL v3
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: C
+Classifier: Topic :: Multimedia :: Graphics :: Graphics Conversion
